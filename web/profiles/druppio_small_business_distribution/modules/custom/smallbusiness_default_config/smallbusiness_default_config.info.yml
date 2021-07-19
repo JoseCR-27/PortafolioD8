@@ -1,0 +1,12 @@
+name: 'Small Business default config'
+type: module
+description: 'Imports default config when a module is enabled'
+package: Web services
+core: 8.x
+dependencies:
+  - smallbusiness_default_content
+
+# Information added by Drupal.org packaging script on 2021-07-08
+version: '8.x-1.75'
+project: 'druppio_small_business_distribution'
+datestamp: 1625770533
